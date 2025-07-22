@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code and JetBrains (PyCharm)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# dotenv environment variable files
+.env
+.env.*
+
+# SQLite and other local DBs
+*.sqlite3
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
+
+# Pipenv
+Pipfile.lock
